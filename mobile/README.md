@@ -1,6 +1,6 @@
 # Preparando o ambiente para executar o app
 
-## Dependências Andriod: nodejs, npm, yarn e python.
+## Dependências: nodejs, npm, yarn e python.
  - Instalar o nodejs-lts (https://nodejs.org/en/)
  - Instalar o npm (https://www.npmjs.com/get-npm)
  - Instalar o yarn (https://yarnpkg.com/getting-started/install#global-install)
